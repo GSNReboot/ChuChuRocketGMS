@@ -24,6 +24,7 @@ To download the latest version of ChuChu Rocket! GMS, go into the [Releases Tab]
 
 > [!NOTE]
 > As of June 2nd, 2025, the only available target version of ChuChu Rocket! GMS is for Windows systems only.
+> 
 > If your refreshrate is lower than 120, Turbo might not work correctly.
 
 ## How to build ChuChu Rocket! GMS
