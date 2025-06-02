@@ -24,8 +24,11 @@ To download the latest version of ChuChu Rocket! GMS, go into the [Releases Tab]
 
 > [!NOTE]
 > As of June 2nd, 2025, the only available target version of ChuChu Rocket! GMS is for Windows systems only.
+> If your refreshrate is lower than 120, Turbo might not work correctly.
 
 ## How to build ChuChu Rocket! GMS
+> [!NOTE]
+> To build ChuChu Rocket! GMS, you require .NET Framework 3.5.
 To build ChuChu Rocket! GMS, go into the [Releases Tab](https://github.com/GSNReboot/ChuChuRocketGMS/releases), find the latest stable version, and download the .gmz project file. Open the project file in GameMaker Studio and press f5 to test if the game builds correctly to your target version. Once tested, you can export the project to your target version and build the game.
 
 ## Credits
