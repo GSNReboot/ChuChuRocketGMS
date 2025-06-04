@@ -19,13 +19,14 @@
 ## About
 ChuChu Rocket! GMS is a unofficial fan-recreation of the 1999 Dreamcast puzzle title ChuChu Rocket! recreated in GameMaker Studio. The project is lead by GSNReboot and developed by the WonderfulGalaxy Team. This recreation tries to give the ultimate ChuChu Rocket! experience with a native Windows build and its free-to-download executable and project file.
 
+## Current Version
+The current version of the game is [**Beta 3.0**](https://github.com/GSNReboot/ChuChuRocketGMS/releases/tag/ccrgms-beta3.0). Last updated on **June 3rd, 2025**.
+
 ## How to download ChuChu Rocket! GMS
 To download the latest version of ChuChu Rocket! GMS, go into the [Releases Tab](https://github.com/GSNReboot/ChuChuRocketGMS/releases), find the latest stable version, and download the file named accordingly to your system.
 
 > [!NOTE]
 > As of June 2nd, 2025, the only available target version of ChuChu Rocket! GMS is for Windows systems only.
-> 
-> If your refreshrate is lower than 120, Turbo might not work correctly.
 
 ## How to build ChuChu Rocket! GMS
 > [!NOTE]
